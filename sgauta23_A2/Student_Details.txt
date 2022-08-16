@@ -1,0 +1,5 @@
+Kiernan,kiernan123@gmail.com,26,24543625,BIT,0.0 
+Ian,ian456@gmail.com,28,23164986,MIT,0.0 
+Haylee,haylee789@gmail.com,25,23165427,BIT,0.0 
+Ben,ben258@gmail.com,27,22861753,MIT,0.0 
+Josh,josh369@gmail.com,23,24158967,BIT,0.0 
